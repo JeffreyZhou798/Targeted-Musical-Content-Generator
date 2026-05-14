@@ -8,7 +8,7 @@
 
 An AI-powered tool that generates **personalized music exercise scores** for Western classical instrument students, directly targeting their specific technical or sight-reading weaknesses described in natural language by the teacher.
 
-**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-13/)
+**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-15/)
 
 Powered by [ChatMusician](https://huggingface.co/m-a-p/ChatMusician) — an open-source music LLM that natively generates ABC notation.
 
@@ -188,7 +188,7 @@ Commercial use is strictly prohibited.
 
 一个基于 AI 的工具，针对西方古典乐器学习者的**演奏技术弱点或识谱视奏弱点**，生成个性化音乐练习乐谱。教师只需用自然语言描述学生的问题，系统即可产出可直接在 [MuseScore](https://musescore.org/) 中打开的乐谱文件。
 
-**在线试用**：[ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-13/)
+**在线试用**：[ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-15/)
 
 基于 [ChatMusician](https://huggingface.co/m-a-p/ChatMusician) —— 一个原生支持 ABC 记谱法生成的开源音乐大语言模型。
 
