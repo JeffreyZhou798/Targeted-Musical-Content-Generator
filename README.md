@@ -8,8 +8,7 @@
 
 An AI-powered tool that generates **personalized music exercise scores** for Western classical instrument students, directly targeting their specific technical or sight-reading weaknesses described in natural language by the teacher.
 
-**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-15/)
-
+**Try it online**: [ModelScope Space](https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-15/)https://www.modelscope.cn/studios/JeffreyZhou2026/TargetedMusicalContentGenerator-15/
 Powered by [ChatMusician](https://huggingface.co/m-a-p/ChatMusician) — an open-source music LLM that natively generates ABC notation.
 
 ### How It Works
